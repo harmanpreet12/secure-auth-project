@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1751764657449,
+    "googleId": "117232182416301099378",
+    "username": "Harmanpreet Harmanpreet kaur",
+    "email": "harmanpreetkaurpanaich@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": 1751769242636,
+    "username": "harman",
+    "email": "preetkaurpanaich@gmail.com",
+    "password": "$2b$10$ZNgkGk4TdKbUpPrPH4QaxuD47O5HC9UQcZ.p9RbutG2Ve1GPQyhnG",
+    "role": "admin"
+  }
+]
